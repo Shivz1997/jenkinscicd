@@ -4,7 +4,7 @@ package harshu.shiv;
  * Hello world!
  *
  */
-public class com
+public class App
 {
     public static void main( String[] args )
     {
